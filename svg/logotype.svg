@@ -10,14 +10,21 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="744.09448819"
-   height="1052.3622047"
+   width="425.21466"
+   height="102.01978"
    id="svg5802"
    version="1.1"
-   inkscape:version="0.48.1 r9760"
+   inkscape:version="0.47 r22583"
    sodipodi:docname="logotype.svg">
   <defs
      id="defs5804">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective34" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5341-3-59-2"
@@ -99,15 +106,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="266.5482"
-     inkscape:cy="589.06167"
+     inkscape:cx="-59.880385"
+     inkscape:cy="17.838787"
      inkscape:document-units="px"
      inkscape:current-layer="g5406-0-2"
      showgrid="false"
-     inkscape:window-width="1440"
-     inkscape:window-height="847"
+     inkscape:window-width="1680"
+     inkscape:window-height="973"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="25"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata5807">
@@ -117,50 +124,19 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-85.7143,-381.97667)">
     <g
        id="g5406-0-2"
        transform="matrix(0.23013525,0,0,0.23013525,-122.53637,-433.28155)">
-      <g
-         transform="translate(1442.4287,1951.7165)"
-         id="g5332-7-71-1">
-        <path
-           style="fill:url(#linearGradient5432-4-4);fill-opacity:1;fill-rule:nonzero;stroke:none"
-           d="m -569.99902,335.15387 394.50549,0 c 19.43561,0 35.08234,15.64672 35.08234,35.08234 l 0,394.50549 c 0,19.43561 -15.64673,35.08234 -35.08234,35.08234 l -394.50549,0 c -19.43562,0 -35.08234,-15.64673 -35.08234,-35.08234 l 0,-394.50549 c 0,-19.43562 15.64672,-35.08234 35.08234,-35.08234 z"
-           id="rect3810-0-2-3" />
-        <g
-           transform="matrix(5.2565051,-2.0196054,2.0196054,5.2565051,-3237.4891,-143.72359)"
-           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
-           id="flowRoot3792-7-2-3">
-          <path
-             d="m 453.02736,317.39519 c -4.08428,12.25193 -9.885,24.75108 -14.58895,34.92707 l -12.096,0 c -4.70403,-10.17599 -9.60002,-21.69598 -14.688,-34.56 -13.06147,-32.87545 -16.76962,-52.63245 -13.30432,-75.40894 l 15.41794,1.35197 c -3.40362,15.06058 -2.74726,21.05908 3.21438,48.85697 1.63198,5.28006 3.31198,10.56005 5.04,15.84 1.82397,5.18404 3.64797,10.22404 5.472,15.12 1.82397,4.89603 3.55196,9.26402 5.184,13.104 1.63196,-3.83998 3.65052,-8.16859 5.32515,-13.11771 0.92313,-2.72818 1.7394,-4.73976 3.11223,-10.06028 1.79638,-6.70321 1.87259,-8.57223 2.37395,-12.79823 l 14.38693,0.65691"
-             style="font-size:144px;font-variant:normal;font-stretch:normal;fill:#ffffff;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-             id="path5688"
-             inkscape:connector-curvature="0"
-             sodipodi:nodetypes="ccccccccccsccc" />
-        </g>
-      </g>
       <flowRoot
-         transform="matrix(13.75388,0,0,13.75388,2313.301,-3405.1792)"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;font-family:Sans"
-         id="flowRoot5324-8-3-0"
-         xml:space="preserve"><flowRegion
-           id="flowRegion5326-8-19-3"><rect
-             style="fill:#999999"
-             y="407.88486"
-             x="-70.710678"
-             height="456.58896"
-             width="840.4469"
-             id="rect5328-2-7-4" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-0.0709548px;fill:#b3b3b3;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-           id="flowPara5330-5-9-2">erese</flowPara></flowRoot>      <flowRoot
          transform="matrix(12.977939,0,0,12.977939,2270.0454,-1832.3363)"
          style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;font-family:Sans"
          id="flowRoot5324-8-3-0-2"
